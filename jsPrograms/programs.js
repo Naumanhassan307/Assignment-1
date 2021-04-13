@@ -61,3 +61,15 @@
 
 
 
+// 6.	Write a js program to count total number of words in a string.
+
+
+
+// let str = "Hello my name is Nauman Hassan"
+
+// let splitStr = str.split(" ")
+
+// let wordsInString = splitStr.length
+// console.log("Orignal string => "+"Hello my name is Nauman Hassan");
+
+// console.log("Total numbers in this string are =>", wordsInString)
