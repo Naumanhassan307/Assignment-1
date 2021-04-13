@@ -1,15 +1,11 @@
 // 1.	Write a js program to convert lowercase string to uppercase.
 
-
 // let inputValue = prompt("Enter lowercase string", "hello world")
 
 // console.log("input value before uppercase=>",inputValue );
 
 // let uppercaseValue = inputValue.toUpperCase()
 // console.log("input value in uppercase=>", uppercaseValue );
-
-
-
 
 // 2.	Write a js program to convert uppercase string to lowercase.
 
@@ -19,9 +15,6 @@
 
 // let lowercaseValue = inputValue.toLowerCase()
 // console.log("input value in lowercase=>", lowercaseValue);
-
-
-
 
 // 3.	Write a js program to toggle case of each character of a string.
 
@@ -33,9 +26,7 @@
 // console.log(splitString[0].charAt(0).toUpperCase());
 // console.log(splitString[0])
 
-
 // 5.	Write a js program to count total number of vowels and consonants in a string.
-
 
 // let vowels = 0
 // let consonants = 0
@@ -52,18 +43,13 @@
 
 //         consonants++
 //     }
-    
+
 // }
 // console.log("Vowels are in this string =>", vowels)
 
 // console.log("consonants are in this string =>", consonants);
 
-
-
-
 // 6.	Write a js program to count total number of words in a string.
-
-
 
 // let str = "Hello my name is Nauman Hassan"
 
@@ -74,16 +60,12 @@
 
 // console.log("Total numbers in this string are =>", wordsInString)
 
-
-
-
 // 7.	Write a JavaScript program to list the properties of a JavaScript object
 // var student = {
 // name : "David Rayy",
 // sclass : "VI",
 // rollno : 12 };
 // Sample Output: name,sclass,rollno
-
 
 // var student = {
 //     name : "David Rayy",
@@ -95,12 +77,7 @@
 //     console.log(student[prop])
 // }
 
-
-
-
-
-
-// 8.	 Write a JavaScript program to delete the rollno property from the following object. 
+// 8.	 Write a JavaScript program to delete the rollno property from the following object.
 //       Also print the object before or after deleting the property.
 // Sample object:
 // var student = {
@@ -108,14 +85,11 @@
 // sclass : "VI",
 // rollno : 12 };
 
-
-
 // var student = {
 //     name : "David Rayy",
 //     sclass : "VI",
 //     rollno : 12
 // };
-
 
 // console.log("Object before deleting rollno property", student)
 
@@ -126,7 +100,8 @@
 
 
 
-//9. Write a JavaScript program to get the length of a JavaScript object.   
+
+//9. Write a JavaScript program to get the length of a JavaScript object.
 // 	Sample object :
 //            var student = {
 // name : "David Rayy",
@@ -148,3 +123,51 @@
 
 
 
+
+
+// 10.	 Write a JavaScript program to display the reading status (i.e. display book name, author name and reading status) of the following books.   
+
+// var library = [ 
+//    {
+//      author: 'Bill Gates',
+//        title: 'The Road Ahead',
+//        readingStatus: true
+//    },
+//    {
+//        author: 'Steve Jobs',
+//        title: 'Walter Isaacson',
+//        readingStatus: true
+//    },
+//    {
+//        author: 'Suzanne Collins',
+//        title:  'Mockingjay: The Final Book of The Hunger Games', 
+//   readingStatus: false
+//    }];
+
+
+
+
+// var library = [ 
+//     {
+//         author: 'Bill Gates',
+//         title: 'The Road Ahead',
+//         readingStatus: true
+//     },
+//     {
+//         author: 'Steve Jobs',
+//         title: 'Walter Isaacson',
+//         readingStatus: true
+//     },
+//     {
+//         author: 'Suzanne Collins',
+//         title:  'Mockingjay: The Final Book of The Hunger Games', 
+//     readingStatus: false
+//     }
+// ];
+
+// library.map((library)=>{
+
+//     console.log(library.author)
+//     console.log(library.title)
+//     console.log(library.readingStatus)
+// })
