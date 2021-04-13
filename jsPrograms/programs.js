@@ -171,3 +171,15 @@
 //     console.log(library.title)
 //     console.log(library.readingStatus)
 // })
+
+
+
+
+// 12. Write a js program to print all odd number between 1 to 100.
+
+
+// for(let i=1; i<100; i++){
+//     if( i % 2 !==0){
+//         console.log(i, "is an add number between 1 to 100")
+//     }
+// }
