@@ -213,3 +213,16 @@
 // console.log("sum of all even numbers between 1 to n", sum);
 
 
+// 15.	 Write a js program to find sum of all odd numbers between 1 to n.
+
+
+// let n= prompt("Enter the value of n ")
+
+// let sum = 0
+
+// for(let i=1 ; i<= n; i++){
+//     if(i % 2 !== 0){
+//         sum = sum+i
+//     }
+// }
+// console.log("sum of all odd numbers between 1 to n", sum);
