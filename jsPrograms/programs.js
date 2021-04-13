@@ -183,3 +183,15 @@
 //         console.log(i, "is an add number between 1 to 100")
 //     }
 // }
+
+
+
+
+// 13.	 Write a js program to find sum of all natural numbers between 1 to n.
+
+// let n= prompt("Enter the value of n ")
+// let sum = 0
+// for(let i=1; i<=n ; i++){
+//     sum= sum+i;
+// }
+// console.log("sum of all natural numbers between 1 to n is => ", sum);
