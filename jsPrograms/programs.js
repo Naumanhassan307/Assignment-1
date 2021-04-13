@@ -125,3 +125,26 @@
 
 
 
+
+//9. Write a JavaScript program to get the length of a JavaScript object.   
+// 	Sample object :
+//            var student = {
+// name : "David Rayy",
+// sclass : "VI",
+// rollno : 12 };
+
+// var student = {
+//     name : "David Rayy",
+//     sclass : "VI",
+//     rollno : 12
+// };
+
+// let objLength = 0
+
+// for(let prop in student){
+//     objLength++
+// }
+// console.log("Length of object is => ", objLength)
+
+
+
