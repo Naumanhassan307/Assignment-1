@@ -490,3 +490,23 @@
 //         console.log("invalid ")
 //     }
 // }
+
+
+// 42.	 Write a js program to check whether a number is even or odd using switch case.
+
+
+// let num = 99
+
+// switch(num % 2 === 0 ){
+//     case true:{
+//         console.log("Number is Even")
+//         break
+//     }
+//     case false:{
+//         console.log("Number is odd")
+//         break
+//     }
+//     default:{
+//         console.log("invalid ");
+//     }
+// }
