@@ -470,3 +470,23 @@
 // }
 
 
+
+// 41.	 Write a js program to find maximum between two numbers using switch case.
+
+
+// let num1 = 10
+// let num2 = 30
+
+// switch(num1 > num2){
+//     case true:{
+//         console.log(num1, "is maximum than", num2)
+//         break
+//     }
+//     case false:{
+//         console.log(num2, "is maximum than", num1)
+//         break
+//     }
+//     default:{
+//         console.log("invalid ")
+//     }
+// }
