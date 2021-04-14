@@ -260,3 +260,21 @@
 //     console.log(num2, "is greater number, which is ", num2)
 
 // }
+
+
+
+
+// 20.	 Write a js program to find maximum between three numbers.
+
+// let num1 = prompt("Enter first number","1234..")
+// let num2 = prompt("Enter second number","1234..")
+// let num3 = prompt("Enter sthird number","1234..")
+
+
+// if(num1 > (num2 && num3)){
+//     console.log("the greater number is ", num1)
+// }else if (num2 > (num1 && num3)) {
+//     console.log("the greater number is ", num2);
+// } else {
+//     console.log("the greater num is ", num3);
+// }
