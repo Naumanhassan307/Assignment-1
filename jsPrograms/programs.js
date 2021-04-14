@@ -364,3 +364,18 @@
 //     console.log("cube of a given number is ", Math.pow(num, 3));
 // }
 // cubeOfAnyFun(5)
+
+
+
+
+// 30.	 Write a js program to find maximum and minimum between two numbers using functions.
+
+// let maxNum = (num1, num2)=>{
+//     if(num1 > num2){
+//         console.log("Number", num1, "is maximum than", num2)
+//     }else {
+//         console.log("Number", num2, "is maximum than", num1)
+//     }
+// }
+
+// maxNum(10,2)
