@@ -235,3 +235,16 @@
 // for(let i=1 ; i<=10; i++){
 //     console.log("2 x ", i ,"=", 2*i)
 // }
+
+
+// 17.	 Write a js program to count number of digits in a number.
+
+// let number = 12345678910
+// console.log(typeof(number))
+// number.toString()
+// console.log(number.toString().length);
+// console.log(number)
+// console.log(typeof(number))
+
+
+
