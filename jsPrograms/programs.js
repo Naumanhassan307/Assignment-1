@@ -379,3 +379,17 @@
 // }
 
 // maxNum(10,2)
+
+
+
+// 31.	Write a js program to check whether a number is even or odd using functions.
+
+
+// let evenOddNum = (num1) =>{
+//     if(num1 % 2 === 0){
+//         console.log(num1, "is an even number")
+//     }else{
+//         console.log(num1, "is an odd number")
+//     }
+// }
+// evenOddNum(101)
