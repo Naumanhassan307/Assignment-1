@@ -278,3 +278,19 @@
 // } else {
 //     console.log("the greater num is ", num3);
 // }
+
+
+
+// 21.	 Write a js program to check whether a number is negative, positive or zero.
+
+// let num = prompt("Enter a number for checking +ve/ equal to 0/ -ve")
+
+// if (num > 0){
+//     console.log("Number is positive")
+// }else if (num ===0){
+//     console.log("Number is equal to zero")
+// }else if (num <0 ){
+//     console.log("Number is negtive")
+// }else{
+//     console.log("Number is invalid")
+// }
