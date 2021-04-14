@@ -336,3 +336,20 @@
 //     console.log("No it is not an alphabet")
 
 // }
+
+
+
+// 26.	 Write a js program to input any alphabet and check whether it is vowel or consonant.
+
+
+// let alphbet = prompt("Enter any alphabet and check whether it is vowel or consonant")
+// let convertAlphbet = alphbet.toLowerCase()
+
+// // console.log(convertAlphbet)
+
+// if(convertAlphbet === "a" || convertAlphbet === "e" || convertAlphbet === "i" || convertAlphbet === "o" || convertAlphbet === "u" ){
+//     console.log("The alphbet is vowel")
+// }else{
+//     console.log("The alphbet is consonant")
+
+// }
