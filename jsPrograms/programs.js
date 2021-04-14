@@ -353,3 +353,14 @@
 //     console.log("The alphbet is consonant")
 
 // }
+
+
+
+// 28.	 Write a js program to find cube of any number using function.
+
+
+
+// let cubeOfAnyFun = (num) => {
+//     console.log("cube of a given number is ", Math.pow(num, 3));
+// }
+// cubeOfAnyFun(5)
