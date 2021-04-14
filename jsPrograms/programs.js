@@ -510,3 +510,22 @@
 //         console.log("invalid ");
 //     }
 // }
+
+// 43.	 Write a js program to check whether a number is positive, negative or zero using switch case.
+
+
+// let num = 0
+
+// switch(num > 0){
+//     case true:{
+//         console.log(num ,"is a positive number")
+//         break
+//     }
+//     case false:{
+//         console.log(num ,"is a negtive number")
+//         break
+//     }
+//     default:{
+//         console.log(num, "is zero")
+//     }
+// }
