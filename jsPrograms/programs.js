@@ -434,3 +434,39 @@
 //         console.log("invalid day Name!")
 //     }
 // }
+
+
+
+// 40.	 Write a js program to check whether an alphabet is vowel or consonant using switch case
+
+// let inp = prompt("Enter an alphabet to check whether an alphabet is vowel or consonant")
+
+// let convertInp = inp.toLowerCase()
+
+// switch (convertInp) {
+//     case "a" :{
+//         console.log("Alphabet is vowel")
+//         break
+//     }
+//     case "e" :{
+//         console.log("Alphabet is vowel")
+//         break
+//     }
+//     case "i" :{
+//         console.log("Alphabet is vowel")
+//         break
+//     }
+//     case "o" :{
+//         console.log("Alphabet is vowel")
+//         break
+//     }
+//     case "u" :{
+//         console.log("Alphabet is vowel")
+//         break
+//     }
+//     default:{
+//         console.log("Alphabet is consonents");
+//     }
+// }
+
+
