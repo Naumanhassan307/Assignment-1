@@ -321,3 +321,18 @@
 // }else{
 //  console.log("Number is negtive");   
 // }
+
+
+
+// 25.	 Write a js program to check whether a character is alphabet or not.
+
+
+// let alphabet = prompt("Enter a value to check whether a character is alphabet or not")
+// let convertAlphabet = alphabet.toString()
+
+// if(alphabet === convertAlphabet){
+//     console.log("Yes it is an alphabet")
+// }else{
+//     console.log("No it is not an alphabet")
+
+// }
