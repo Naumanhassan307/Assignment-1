@@ -248,3 +248,15 @@
 
 
 
+// 19. Write a js program to find maximum between two numbers.
+
+// let num1 = prompt("Enter first number","1234..")
+// let num2 = prompt("Enter second number","1234..")
+
+
+// if(num1 > num2){
+//     console.log(num1, "is greater number, which is ", num1)
+// }else{
+//     console.log(num2, "is greater number, which is ", num2)
+
+// }
