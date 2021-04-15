@@ -529,3 +529,37 @@
 //         console.log(num, "is zero")
 //     }
 // }
+
+
+// 45.	 Write a js program to create Simple Calculator using switch case.
+
+
+// let num11 = prompt("Enter first number", "1,2,3...")
+// let num22 = prompt("Enter second number", "1,2,3...");
+
+
+// let num1 = parseInt(num11)
+// let num2 = parseInt(num22)
+// let oper = prompt("Enter operator", "+, -, *, /");
+
+// switch(oper){
+//     case "+":{
+//         console.log("The sum of two numbers is ", num1 +num2)
+//         break
+//     }
+//     case "-":{
+//         console.log("The subtraction of two numbers is ", num1 - num2)
+//         break
+//     }
+//     case "*":{
+//         console.log("The multiplication of two numbers is ", num1 * num2)
+//         break
+//     }
+//     case "/":{
+//         console.log("The division of two numbers is ", num1 / num2)
+//         break
+//     }
+//     default:{
+//         console.log("invalid")
+//     }
+// }
