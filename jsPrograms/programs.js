@@ -479,6 +479,23 @@
 // evenOddNum(101)
 
 
+// 33.	Write a js program to find maximum between two numbers using conditional operator.
+
+
+
+
+// let maximum = (num1, num2) =>{
+//     num1 > num2
+//         ? console.log(num1, "number  is maximum than ", num2)
+//         : console.log(num2, "number  is maximum than ", num1);
+// }
+
+// maximum(100, 20)
+
+
+
+
+// 34.	Write a js program to find maximum between three numbers using conditional operator.
 
 // 38.	Write a js program to print day of week name using switch case.
 
