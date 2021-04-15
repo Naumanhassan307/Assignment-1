@@ -594,3 +594,18 @@
 // let arr2 = arr1.slice(0, 10)
 
 // console.log("The copy Array", arr2)
+
+
+//48.   Write a js program to insert an element in an array.
+
+
+// let arr1 = [1, -2, -4, -4, 5, 2, 3, -9, -56, -98];
+
+// console.log("The orignal Array", arr1);
+
+// // insert 8 at start
+
+// arr1.unshift(8)
+
+
+// console.log("The Array after inserting at start of Array", arr1);
