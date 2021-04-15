@@ -508,6 +508,22 @@
 
 // maximum(10, 40, 50)
 
+
+
+// 35.	 Write a js program to check whether a number is even or odd using conditional operator.
+
+// let evenOdd = (n1) =>{
+//     (n1 % 2 === 0)
+//         ? console.log(n1, "is an Even number")
+//         : console.log(n1, "is an odd number")
+// }
+
+// let number = prompt("Enter any number to check Even or Odd")
+// let n = parseInt(number)
+
+// evenOdd(n)
+
+
 // 38.	Write a js program to print day of week name using switch case.
 
 
