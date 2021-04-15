@@ -609,3 +609,17 @@
 
 
 // console.log("The Array after inserting at start of Array", arr1);
+
+
+
+// 49.	 Write a js program to delete an element from an array at specified position.
+
+
+// let arr1 = [1, -2, -4, -4, 5, 2, 3, -9, -56, -98];
+
+// // delete element 5 from index 4.
+// console.log("The orignal Array", arr1);
+
+// arr1.splice(4, 1)
+
+// console.log("The Array after delete element 5 from index 4", arr1);
