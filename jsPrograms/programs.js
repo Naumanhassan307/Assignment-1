@@ -497,6 +497,17 @@
 
 // 34.	Write a js program to find maximum between three numbers using conditional operator.
 
+
+// let maximum = (n1, n2, n3) =>{
+//     ((n1 > n2) && (n1 > n3)) 
+//         ? console.log(n1, "is maximum number")
+//         : ((n2 > n1) && (n2 > n3))
+//         ? console.log(n2, "is maximum number")
+//         : console.log(n3, "is maximum number")
+// }
+
+// maximum(10, 40, 50)
+
 // 38.	Write a js program to print day of week name using switch case.
 
 
