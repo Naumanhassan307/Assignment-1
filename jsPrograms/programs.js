@@ -366,6 +366,18 @@
 // }
 
 
+// 24.	 Write a js program to check whether a year is leap year or not.
+
+// let get = prompt("Enter year", "2001, 2002, 2003...")
+// let getYear = parseInt(get)
+
+// if ((getYear % 4 === 0) && (getYear % 100 !== 0) && (getYear % 400 === 0)){
+//     console.log(getYear," is a leap year")
+// }else {
+//     console.log(getYear," is not a  leap year")
+
+// }
+
 
 // 25.	 Write a js program to check whether a character is alphabet or not.
 
@@ -407,6 +419,35 @@
 //     console.log("cube of a given number is ", Math.pow(num, 3));
 // }
 // cubeOfAnyFun(5)
+
+
+
+// 29.	 Write a js program to find diameter, circumference and area of circle using functions.
+
+
+
+
+// let diameter = (r) =>{
+//     let d = 2* r
+//     console.log("Diameter of cirlcle is ", d, "with radius ", r)
+// }
+// diameter(2)
+
+// let circumference = (r) =>{
+//     let c = (2* Math.PI *r)
+//     console.log("circumference of cirlcle is ", c, "with radius ", r);
+// }
+
+// circumference(3)
+
+
+// let area = (r)=>{
+//     let a = (Math.PI * (Math.pow(r, 2)))
+//     console.log("Area of cirlcle is ", a, "with radius ", r);
+// }
+// area(5)
+
+
 
 
 
