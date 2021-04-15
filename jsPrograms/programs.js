@@ -580,3 +580,17 @@
 // })
 // console.log("Orignal Array is ", arr)
 // console.log("Negtive numbers are ", negtiveNumber)
+
+
+
+
+// 47.	 Write a js program to copy all elements from an array to another array.
+
+
+// let arr1 = [1, -2, -4, -4, 5, 2, 3, -9, -56, -98];
+
+// console.log("The orignal Array", arr1)
+
+// let arr2 = arr1.slice(0, 10)
+
+// console.log("The copy Array", arr2)
