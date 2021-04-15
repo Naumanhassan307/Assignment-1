@@ -7,6 +7,9 @@
 // let uppercaseValue = inputValue.toUpperCase()
 // console.log("input value in uppercase=>", uppercaseValue );
 
+
+
+
 // 2.	Write a js program to convert uppercase string to lowercase.
 
 // let inputValue = prompt("Enter Uppercase string", "HELLO WORLD")
@@ -15,6 +18,10 @@
 
 // let lowercaseValue = inputValue.toLowerCase()
 // console.log("input value in lowercase=>", lowercaseValue);
+
+
+
+
 
 // 3.	Write a js program to toggle case of each character of a string.
 
@@ -25,6 +32,12 @@
 
 // console.log(splitString[0].charAt(0).toUpperCase());
 // console.log(splitString[0])
+
+
+
+// 4.	Write a js program to find total number of alphabets, digits or special character in a string.
+
+
 
 // 5.	Write a js program to count total number of vowels and consonants in a string.
 
@@ -49,6 +62,10 @@
 
 // console.log("consonants are in this string =>", consonants);
 
+
+
+
+
 // 6.	Write a js program to count total number of words in a string.
 
 // let str = "Hello my name is Nauman Hassan"
@@ -59,6 +76,10 @@
 // console.log("Orignal string => "+"Hello my name is Nauman Hassan");
 
 // console.log("Total numbers in this string are =>", wordsInString)
+
+
+
+
 
 // 7.	Write a JavaScript program to list the properties of a JavaScript object
 // var student = {
@@ -76,6 +97,11 @@
 // for(let prop in student){
 //     console.log(student[prop])
 // }
+
+
+
+
+
 
 // 8.	 Write a JavaScript program to delete the rollno property from the following object.
 //       Also print the object before or after deleting the property.
@@ -173,6 +199,20 @@
 // })
 
 
+// 11.	 Write a JavaScript program to get the volume of a Cylinder with four decimal places using object classes.   
+// Volume of a cylinder : V = πr2h
+// where r is the radius and h is the height of the cylinder.
+
+// let r = 2
+
+// let h = 2
+
+// let v = (Math.PI * r * 2 *h)
+
+
+// console.log("Volume of a cylinder is", v)
+
+
 
 
 // 12. Write a js program to print all odd number between 1 to 100.
@@ -211,6 +251,9 @@
 // }
 
 // console.log("sum of all even numbers between 1 to n", sum);
+
+
+
 
 
 // 15.	 Write a js program to find sum of all odd numbers between 1 to n.
@@ -623,3 +666,5 @@
 // arr1.splice(4, 1)
 
 // console.log("The Array after delete element 5 from index 4", arr1);
+
+
