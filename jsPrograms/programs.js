@@ -563,3 +563,20 @@
 //         console.log("invalid")
 //     }
 // }
+
+
+// 46.	Write a js program to count total number of negative elements in an array.
+
+
+// let arr = [1, -2, -4, -4, 5,  2, 3, -9, -56, -98]
+
+
+// let negtiveNumber = 0
+// arr.map((item, index)=>{
+//     if(arr[index] < 0){
+//         console.log(item, "at index", index, "is negtive")
+//         negtiveNumber++
+//     }
+// })
+// console.log("Orignal Array is ", arr)
+// console.log("Negtive numbers are ", negtiveNumber)
